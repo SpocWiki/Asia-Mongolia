@@ -40,11 +40,18 @@ markerFolder: ./Ömnögovi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi|Ömnögovi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.public|Ömnögovi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.internal|Ömnögovi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.protect|Ömnögovi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.private|Ömnögovi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.personal|Ömnögovi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.secret|Ömnögovi.secret]] 
+
+### #is_/same_as :: [Ömnögovi](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ömnögovi.md) 
+
+### #is_/same_as :: [Ömnögovi.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ömnögovi.public.md) 
+
+### #is_/same_as :: [Ömnögovi.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ömnögovi.internal.md) 
+
+### #is_/same_as :: [Ömnögovi.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ömnögovi.protect.md) 
+
+### #is_/same_as :: [Ömnögovi.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ömnögovi.private.md) 
+
+### #is_/same_as :: [Ömnögovi.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ömnögovi.personal.md) 
+
+### #is_/same_as :: [Ömnögovi.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ömnögovi.secret.md)
 

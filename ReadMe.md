@@ -125,10 +125,4 @@ Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Mongolia|Mongolia]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia.internal|Mongolia.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia.protect|Mongolia.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia.private|Mongolia.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia.personal|Mongolia.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia.secret|Mongolia.secret]] 
+

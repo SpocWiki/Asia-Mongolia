@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/City/Ulan_Bator|Ulan_Bator]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/City/Ulan_Bator.public|Ulan_Bator.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/City/Ulan_Bator.internal|Ulan_Bator.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/City/Ulan_Bator.protect|Ulan_Bator.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/City/Ulan_Bator.private|Ulan_Bator.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/City/Ulan_Bator.personal|Ulan_Bator.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/City/Ulan_Bator.secret|Ulan_Bator.secret]] 
+
+### #is_/same_as :: [Ulan_Bator](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar/City/Ulan_Bator.md) 
+
+### #is_/same_as :: [Ulan_Bator.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar/City/Ulan_Bator.public.md) 
+
+### #is_/same_as :: [Ulan_Bator.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar/City/Ulan_Bator.internal.md) 
+
+### #is_/same_as :: [Ulan_Bator.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar/City/Ulan_Bator.protect.md) 
+
+### #is_/same_as :: [Ulan_Bator.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar/City/Ulan_Bator.private.md) 
+
+### #is_/same_as :: [Ulan_Bator.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar/City/Ulan_Bator.personal.md) 
+
+### #is_/same_as :: [Ulan_Bator.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar/City/Ulan_Bator.secret.md)
+

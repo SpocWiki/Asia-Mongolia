@@ -40,11 +40,18 @@ markerFolder: ./Bayanhongor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor|Bayanhongor]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.public|Bayanhongor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.internal|Bayanhongor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.protect|Bayanhongor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.private|Bayanhongor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.personal|Bayanhongor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.secret|Bayanhongor.secret]] 
+
+### #is_/same_as :: [Bayanhongor](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayanhongor.md) 
+
+### #is_/same_as :: [Bayanhongor.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayanhongor.public.md) 
+
+### #is_/same_as :: [Bayanhongor.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayanhongor.internal.md) 
+
+### #is_/same_as :: [Bayanhongor.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayanhongor.protect.md) 
+
+### #is_/same_as :: [Bayanhongor.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayanhongor.private.md) 
+
+### #is_/same_as :: [Bayanhongor.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayanhongor.personal.md) 
+
+### #is_/same_as :: [Bayanhongor.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayanhongor.secret.md)
 

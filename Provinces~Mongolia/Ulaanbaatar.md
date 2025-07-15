@@ -40,11 +40,18 @@ markerFolder: ./Ulaanbaatar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar|Ulaanbaatar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.public|Ulaanbaatar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.internal|Ulaanbaatar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.protect|Ulaanbaatar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.private|Ulaanbaatar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.personal|Ulaanbaatar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.secret|Ulaanbaatar.secret]] 
+
+### #is_/same_as :: [Ulaanbaatar](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.md) 
+
+### #is_/same_as :: [Ulaanbaatar.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.public.md) 
+
+### #is_/same_as :: [Ulaanbaatar.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.internal.md) 
+
+### #is_/same_as :: [Ulaanbaatar.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.protect.md) 
+
+### #is_/same_as :: [Ulaanbaatar.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.private.md) 
+
+### #is_/same_as :: [Ulaanbaatar.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.personal.md) 
+
+### #is_/same_as :: [Ulaanbaatar.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.secret.md)
 

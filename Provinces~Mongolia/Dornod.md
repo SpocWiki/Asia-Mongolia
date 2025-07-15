@@ -40,11 +40,18 @@ markerFolder: ./Dornod/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod|Dornod]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.public|Dornod.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.internal|Dornod.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.protect|Dornod.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.private|Dornod.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.personal|Dornod.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.secret|Dornod.secret]] 
+
+### #is_/same_as :: [Dornod](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.md) 
+
+### #is_/same_as :: [Dornod.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.public.md) 
+
+### #is_/same_as :: [Dornod.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.internal.md) 
+
+### #is_/same_as :: [Dornod.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.protect.md) 
+
+### #is_/same_as :: [Dornod.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.private.md) 
+
+### #is_/same_as :: [Dornod.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.personal.md) 
+
+### #is_/same_as :: [Dornod.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.secret.md)
 

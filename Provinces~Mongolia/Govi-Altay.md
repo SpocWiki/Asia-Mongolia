@@ -40,11 +40,18 @@ markerFolder: ./Govi-Altay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govi-Altay|Govi-Altay]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govi-Altay.public|Govi-Altay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govi-Altay.internal|Govi-Altay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govi-Altay.protect|Govi-Altay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govi-Altay.private|Govi-Altay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govi-Altay.personal|Govi-Altay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govi-Altay.secret|Govi-Altay.secret]] 
+
+### #is_/same_as :: [Govi-Altay](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govi-Altay.md) 
+
+### #is_/same_as :: [Govi-Altay.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govi-Altay.public.md) 
+
+### #is_/same_as :: [Govi-Altay.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govi-Altay.internal.md) 
+
+### #is_/same_as :: [Govi-Altay.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govi-Altay.protect.md) 
+
+### #is_/same_as :: [Govi-Altay.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govi-Altay.private.md) 
+
+### #is_/same_as :: [Govi-Altay.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govi-Altay.personal.md) 
+
+### #is_/same_as :: [Govi-Altay.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govi-Altay.secret.md)
 

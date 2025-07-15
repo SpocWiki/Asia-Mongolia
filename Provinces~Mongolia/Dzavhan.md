@@ -40,11 +40,18 @@ markerFolder: ./Dzavhan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan|Dzavhan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.public|Dzavhan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.internal|Dzavhan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.protect|Dzavhan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.private|Dzavhan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.personal|Dzavhan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.secret|Dzavhan.secret]] 
+
+### #is_/same_as :: [Dzavhan](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dzavhan.md) 
+
+### #is_/same_as :: [Dzavhan.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dzavhan.public.md) 
+
+### #is_/same_as :: [Dzavhan.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dzavhan.internal.md) 
+
+### #is_/same_as :: [Dzavhan.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dzavhan.protect.md) 
+
+### #is_/same_as :: [Dzavhan.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dzavhan.private.md) 
+
+### #is_/same_as :: [Dzavhan.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dzavhan.personal.md) 
+
+### #is_/same_as :: [Dzavhan.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dzavhan.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Hövsgöl/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hövsgöl|Hövsgöl]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hövsgöl.public|Hövsgöl.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hövsgöl.internal|Hövsgöl.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hövsgöl.protect|Hövsgöl.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hövsgöl.private|Hövsgöl.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hövsgöl.personal|Hövsgöl.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hövsgöl.secret|Hövsgöl.secret]] 
+
+### #is_/same_as :: [Hövsgöl](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hövsgöl.md) 
+
+### #is_/same_as :: [Hövsgöl.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hövsgöl.public.md) 
+
+### #is_/same_as :: [Hövsgöl.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hövsgöl.internal.md) 
+
+### #is_/same_as :: [Hövsgöl.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hövsgöl.protect.md) 
+
+### #is_/same_as :: [Hövsgöl.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hövsgöl.private.md) 
+
+### #is_/same_as :: [Hövsgöl.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hövsgöl.personal.md) 
+
+### #is_/same_as :: [Hövsgöl.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hövsgöl.secret.md)
 

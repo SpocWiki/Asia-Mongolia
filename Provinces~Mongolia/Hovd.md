@@ -40,11 +40,18 @@ markerFolder: ./Hovd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hovd|Hovd]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hovd.public|Hovd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hovd.internal|Hovd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hovd.protect|Hovd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hovd.private|Hovd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hovd.personal|Hovd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hovd.secret|Hovd.secret]] 
+
+### #is_/same_as :: [Hovd](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hovd.md) 
+
+### #is_/same_as :: [Hovd.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hovd.public.md) 
+
+### #is_/same_as :: [Hovd.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hovd.internal.md) 
+
+### #is_/same_as :: [Hovd.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hovd.protect.md) 
+
+### #is_/same_as :: [Hovd.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hovd.private.md) 
+
+### #is_/same_as :: [Hovd.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hovd.personal.md) 
+
+### #is_/same_as :: [Hovd.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hovd.secret.md)
 
