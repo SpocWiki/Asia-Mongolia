@@ -111,7 +111,7 @@ markerFolder: ./
 
 [name-en::Mongolia] 
 [name-de::Mongolei] 
-![[../Asia~South/Maldives/Flag_of_Maldives.svg|350]]  
+![[../Indian_Subcontinent/Maldives/Flag_of_Maldives.svg|350]]  
 
 
 [Area-Total::1565000] 
