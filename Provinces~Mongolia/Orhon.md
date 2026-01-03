@@ -40,17 +40,17 @@ markerFolder: ./Orhon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orhon](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon|Orhon]] 
 
-### #is_/same_as :: [Orhon.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.public|Orhon.public]] 
 
-### #is_/same_as :: [Orhon.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.internal|Orhon.internal]] 
 
-### #is_/same_as :: [Orhon.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.protect|Orhon.protect]] 
 
-### #is_/same_as :: [Orhon.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.private|Orhon.private]] 
 
-### #is_/same_as :: [Orhon.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.personal|Orhon.personal]] 
 
-### #is_/same_as :: [Orhon.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Orhon.secret|Orhon.secret]] 
 

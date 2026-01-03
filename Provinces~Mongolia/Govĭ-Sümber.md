@@ -40,17 +40,17 @@ markerFolder: ./Govĭ-Sümber/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Govĭ-Sümber](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber|Govĭ-Sümber]] 
 
-### #is_/same_as :: [Govĭ-Sümber.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.public|Govĭ-Sümber.public]] 
 
-### #is_/same_as :: [Govĭ-Sümber.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.internal|Govĭ-Sümber.internal]] 
 
-### #is_/same_as :: [Govĭ-Sümber.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.protect|Govĭ-Sümber.protect]] 
 
-### #is_/same_as :: [Govĭ-Sümber.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.private|Govĭ-Sümber.private]] 
 
-### #is_/same_as :: [Govĭ-Sümber.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.personal|Govĭ-Sümber.personal]] 
 
-### #is_/same_as :: [Govĭ-Sümber.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Govĭ-Sümber.secret|Govĭ-Sümber.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Arhangay/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arhangay](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay|Arhangay]] 
 
-### #is_/same_as :: [Arhangay.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.public|Arhangay.public]] 
 
-### #is_/same_as :: [Arhangay.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.internal|Arhangay.internal]] 
 
-### #is_/same_as :: [Arhangay.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.protect|Arhangay.protect]] 
 
-### #is_/same_as :: [Arhangay.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.private|Arhangay.private]] 
 
-### #is_/same_as :: [Arhangay.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.personal|Arhangay.personal]] 
 
-### #is_/same_as :: [Arhangay.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Arhangay.secret|Arhangay.secret]] 
 

@@ -41,3 +41,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mongolian%20Plateau) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Mongolian_Plateau|Mongolian_Plateau]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Mongolian_Plateau.public|Mongolian_Plateau.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Mongolian_Plateau.internal|Mongolian_Plateau.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Mongolian_Plateau.protect|Mongolian_Plateau.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Mongolian_Plateau.private|Mongolian_Plateau.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Mongolian_Plateau.personal|Mongolian_Plateau.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Mongolian_Plateau.secret|Mongolian_Plateau.secret]] 
+

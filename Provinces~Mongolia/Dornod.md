@@ -40,17 +40,17 @@ markerFolder: ./Dornod/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dornod](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod|Dornod]] 
 
-### #is_/same_as :: [Dornod.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.public|Dornod.public]] 
 
-### #is_/same_as :: [Dornod.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.internal|Dornod.internal]] 
 
-### #is_/same_as :: [Dornod.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.protect|Dornod.protect]] 
 
-### #is_/same_as :: [Dornod.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.private|Dornod.private]] 
 
-### #is_/same_as :: [Dornod.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.personal|Dornod.personal]] 
 
-### #is_/same_as :: [Dornod.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dornod.secret|Dornod.secret]] 
 

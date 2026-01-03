@@ -39,17 +39,17 @@ markerFolder: ./Töv/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Töv](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv|Töv]] 
 
-### #is_/same_as :: [Töv.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.public|Töv.public]] 
 
-### #is_/same_as :: [Töv.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.internal|Töv.internal]] 
 
-### #is_/same_as :: [Töv.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.protect|Töv.protect]] 
 
-### #is_/same_as :: [Töv.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.private|Töv.private]] 
 
-### #is_/same_as :: [Töv.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.personal|Töv.personal]] 
 
-### #is_/same_as :: [Töv.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Töv.secret|Töv.secret]] 
 

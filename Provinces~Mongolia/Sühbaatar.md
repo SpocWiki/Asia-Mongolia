@@ -40,17 +40,17 @@ markerFolder: ./Sühbaatar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sühbaatar](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar|Sühbaatar]] 
 
-### #is_/same_as :: [Sühbaatar.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.public|Sühbaatar.public]] 
 
-### #is_/same_as :: [Sühbaatar.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.internal|Sühbaatar.internal]] 
 
-### #is_/same_as :: [Sühbaatar.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.protect|Sühbaatar.protect]] 
 
-### #is_/same_as :: [Sühbaatar.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.private|Sühbaatar.private]] 
 
-### #is_/same_as :: [Sühbaatar.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.personal|Sühbaatar.personal]] 
 
-### #is_/same_as :: [Sühbaatar.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Sühbaatar.secret|Sühbaatar.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Bulgan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bulgan](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan|Bulgan]] 
 
-### #is_/same_as :: [Bulgan.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.public|Bulgan.public]] 
 
-### #is_/same_as :: [Bulgan.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.internal|Bulgan.internal]] 
 
-### #is_/same_as :: [Bulgan.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.protect|Bulgan.protect]] 
 
-### #is_/same_as :: [Bulgan.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.private|Bulgan.private]] 
 
-### #is_/same_as :: [Bulgan.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.personal|Bulgan.personal]] 
 
-### #is_/same_as :: [Bulgan.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bulgan.secret|Bulgan.secret]] 
 

@@ -52,3 +52,20 @@ Commons_category: Sayan Mountains
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sayan%20Mountains) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Sayan_Mountains|Sayan_Mountains]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Sayan_Mountains.public|Sayan_Mountains.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Sayan_Mountains.internal|Sayan_Mountains.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Sayan_Mountains.protect|Sayan_Mountains.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Sayan_Mountains.private|Sayan_Mountains.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Sayan_Mountains.personal|Sayan_Mountains.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Sayan_Mountains.secret|Sayan_Mountains.secret]] 
+

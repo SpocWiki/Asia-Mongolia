@@ -74,21 +74,19 @@ markerFolder: ./Ulaanbaatar/
 > [Wikipedia](https://en.wikipedia.org/wiki/Ulaanbaatar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ulaanbaatar](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar|Ulaanbaatar]] 
 
-### #is_/same_as :: [Ulaanbaatar.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.public|Ulaanbaatar.public]] 
 
-### #is_/same_as :: [Ulaanbaatar.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.internal|Ulaanbaatar.internal]] 
 
-### #is_/same_as :: [Ulaanbaatar.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.protect|Ulaanbaatar.protect]] 
 
-### #is_/same_as :: [Ulaanbaatar.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.private|Ulaanbaatar.private]] 
 
-### #is_/same_as :: [Ulaanbaatar.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.personal|Ulaanbaatar.personal]] 
 
-### #is_/same_as :: [Ulaanbaatar.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Ulaanbaatar.secret|Ulaanbaatar.secret]] 
 

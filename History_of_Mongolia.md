@@ -37,3 +37,20 @@ Dewey_Decimal_Classification: "951.7"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Mongolia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/History_of_Mongolia|History_of_Mongolia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/History_of_Mongolia.public|History_of_Mongolia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/History_of_Mongolia.internal|History_of_Mongolia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/History_of_Mongolia.protect|History_of_Mongolia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/History_of_Mongolia.private|History_of_Mongolia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/History_of_Mongolia.personal|History_of_Mongolia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/History_of_Mongolia.secret|History_of_Mongolia.secret]] 
+

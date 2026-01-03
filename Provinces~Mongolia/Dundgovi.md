@@ -40,17 +40,17 @@ markerFolder: ./Dundgovi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dundgovi](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi|Dundgovi]] 
 
-### #is_/same_as :: [Dundgovi.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.public|Dundgovi.public]] 
 
-### #is_/same_as :: [Dundgovi.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.internal|Dundgovi.internal]] 
 
-### #is_/same_as :: [Dundgovi.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.protect|Dundgovi.protect]] 
 
-### #is_/same_as :: [Dundgovi.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.private|Dundgovi.private]] 
 
-### #is_/same_as :: [Dundgovi.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.personal|Dundgovi.personal]] 
 
-### #is_/same_as :: [Dundgovi.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Dundgovi.secret|Dundgovi.secret]] 
 

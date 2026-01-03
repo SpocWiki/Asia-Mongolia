@@ -40,17 +40,17 @@ markerFolder: ./Övörhangay/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Övörhangay](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay|Övörhangay]] 
 
-### #is_/same_as :: [Övörhangay.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.public|Övörhangay.public]] 
 
-### #is_/same_as :: [Övörhangay.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.internal|Övörhangay.internal]] 
 
-### #is_/same_as :: [Övörhangay.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.protect|Övörhangay.protect]] 
 
-### #is_/same_as :: [Övörhangay.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.private|Övörhangay.private]] 
 
-### #is_/same_as :: [Övörhangay.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.personal|Övörhangay.personal]] 
 
-### #is_/same_as :: [Övörhangay.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Övörhangay.secret|Övörhangay.secret]] 
 

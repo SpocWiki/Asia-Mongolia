@@ -40,17 +40,17 @@ markerFolder: ./Hentiy/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hentiy](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy|Hentiy]] 
 
-### #is_/same_as :: [Hentiy.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.public|Hentiy.public]] 
 
-### #is_/same_as :: [Hentiy.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.internal|Hentiy.internal]] 
 
-### #is_/same_as :: [Hentiy.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.protect|Hentiy.protect]] 
 
-### #is_/same_as :: [Hentiy.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.private|Hentiy.private]] 
 
-### #is_/same_as :: [Hentiy.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.personal|Hentiy.personal]] 
 
-### #is_/same_as :: [Hentiy.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Hentiy.secret|Hentiy.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Bayan-Ölgiy/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bayan-Ölgiy](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy|Bayan-Ölgiy]] 
 
-### #is_/same_as :: [Bayan-Ölgiy.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.public|Bayan-Ölgiy.public]] 
 
-### #is_/same_as :: [Bayan-Ölgiy.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.internal|Bayan-Ölgiy.internal]] 
 
-### #is_/same_as :: [Bayan-Ölgiy.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.protect|Bayan-Ölgiy.protect]] 
 
-### #is_/same_as :: [Bayan-Ölgiy.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.private|Bayan-Ölgiy.private]] 
 
-### #is_/same_as :: [Bayan-Ölgiy.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.personal|Bayan-Ölgiy.personal]] 
 
-### #is_/same_as :: [Bayan-Ölgiy.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Mongolia/Provinces~Mongolia/Bayan-Ölgiy.secret|Bayan-Ölgiy.secret]] 
 
