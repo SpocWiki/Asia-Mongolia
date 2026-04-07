@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.91667] 
 [name::Ulan Bator] 
 State ::  
-Country :: [[../../../../Mongolia]]  
+Country :: [[../../../../Mongolia|Mongolia]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 

@@ -118,7 +118,7 @@ markerFolder: ./
 [Area-Land::1566500] 
 Continent :: [[Asia]]  
 [VehicleCode::MGL] 
-Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]  
+Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator|Ulan_Bator]]  
 [Alcohol-l::3.2] 
 [Language-Id::] 
 [geo-lon::106.883] 

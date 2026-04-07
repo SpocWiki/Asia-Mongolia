@@ -2,11 +2,11 @@
 aliases:
   - Mongolian Plateau or Altai Plateau
 has_id_wikidata: Q560198
-instance_of: "[[_Standards/WikiData/WD~plateau,75520]]"
-locations: "[[_Standards/WikiData/WD~Inner_Asia,11212956]]"
+instance_of: "[[_Standards/WikiData/WD~plateau,75520|WD~plateau,75520]]"
+locations: "[[_Standards/WikiData/WD~Inner_Asia,11212956|WD~Inner_Asia,11212956]]"
 location: [45.0, 107.0]
 coordinate_location: Point(107.0 45.0)
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lone%20Tree%20-%20Mongolia%20Landscape.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mongolei-Topografie%2CAtlas1903.JPG
 native_label:

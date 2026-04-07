@@ -1,11 +1,11 @@
 ---
 aliases:
 has_id_wikidata: Q768502
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Mongolia,6810600]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Mongolia,711]]"
-country: "[[_Standards/WikiData/WD~Mongolia,711]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Mongolia,6810600|WD~Template_History_of_Mongolia,6810600]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]"
+country: "[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]"
 Commons_category: History of Mongolia
 Dewey_Decimal_Classification: "951.7"
 ---

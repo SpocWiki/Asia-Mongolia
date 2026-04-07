@@ -7,20 +7,20 @@ aliases:
   - Kögmen
 has_id_wikidata: Q203239
 location: [52.75, 96.0]
-highest_point: "[[_Standards/WikiData/WD~Monkh_Saridag,392246]]"
+highest_point: "[[_Standards/WikiData/WD~Monkh_Saridag,392246|WD~Monkh_Saridag,392246]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-has_part_s_: "[[_Standards/WikiData/WD~Western_Sayan,1974954]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+has_part_s_: "[[_Standards/WikiData/WD~Western_Sayan,1974954|WD~Western_Sayan,1974954]]"
 coordinate_location:
   - Point(96.0 52.75)
   - Point(94.974444444 53.251944444)
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+instance_of: "[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]"
 elevation_above_sea_level:
   - 1087
   - 3492
